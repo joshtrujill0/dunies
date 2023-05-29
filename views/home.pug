@@ -1,0 +1,48 @@
+extends base 
+block content 
+    main
+        section#hero 
+            .hero-block 
+                img(src="/img/logo.png", alt="dunies band logo")
+                .cta-button 
+                    a(href="https://distrokid.com/hyperfollow/dunies/endless-bummer") Pre-save Endless Bummer Now!
+                    svg: use(xlink:href="img/dunies-sprite.svg#play")
+        section#shows 
+            .shows-block 
+                .shows-block__photo
+                .shows-block__content 
+                    h2 get ready to party
+                    p Ran out of confetti and went to buy more. Stay tuned for our next show!
+                    //- for show in shows
+                    //-     .shows-information__event 
+                    //-         h3=show.venue
+                    //- .show-information__event 
+                    //-     h3 live at pineapple's 
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     p.show-information__event__ticket free event
+                    //- .show-information__event 
+                    //-     h3 live at drifthouse
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     p.show-information__event__ticket free event
+                    //- .show-information__event 
+                    //-     h3= shows.venue
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     a.show-information__event__purchase(href="#") buy tickets
+                    //- .show-information__event 
+                    //-     h3= shows.venue
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     a.show-information__event__purchase(href="#") buy tickets
+                    //- .show-information__event 
+                    //-     h3= shows.venue
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     a.show-information__event__purchase(href="#") buy tickets
+                    //- .show-information__event 
+                    //-     h3= shows.venue
+                    //-     p.show-information__event__date June 18th 2023
+                    //-     a.show-information__event__purchase(href="#") buy tickets
+        section#merch 
+            .merch-block
+                p In the beginning God created the heavens and the Earth, The moon and the Sun, The seas and sand, And the Dunes from which they emerged. No one really knows exactly what they&apos;re doing or who they are.<br><br> If you&apos;re searching for them they can be found mainly on the Space Coast of Florida and sometimes in the Tampa Bay Area. They are not hostile. They are usually down for a good time. If you encounter them, you MUST bring them an offering of Busch Light.<br><br> Dunies only have one goal in life... To Live, Laugh, and Die.
+                a(href="https://duniesband.myshopify.com/") merch from the dunes
+        //- .songkick 
+        //-     a(href="https://www.songkick.com/artists/8744699" class="songkick-widget" data-theme="dark" data-track-button="on" data-detect-style="off" data-background-color="rgb(0,0,0,1)" data-font-color="rgb(255,255,255,1)" data-locale="en" data-other-artists="on" data-share-button="on" data-country-filter="on" data-rsvp="on" data-request-show="on" data-past-events="off" data-past-events-offtour="off" data-remind-me="off")
