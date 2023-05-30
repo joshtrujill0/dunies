@@ -127,7 +127,7 @@ header {
 
 footer {
   display: grid;
-  grid-template-columns: [full-start] minmax(6rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(6rem, 1fr) [full-end];
+  grid-template-columns: [full-start] minmax(1.4rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(1.4rem, 1fr) [full-end];
   grid-column: full-start / full-end;
   background-color: #292828;
   padding: 3rem 0rem; }
@@ -161,7 +161,7 @@ footer {
 
 #hero {
   grid-column: full-start / full-end;
-  background-image: linear-gradient(to top, #141414, rgba(20, 20, 20, 0.2)), url(../img/hero.png);
+  background-image: linear-gradient(to top, #141414, rgba(20, 20, 20, 0.2)), url(../img/hero.jpg);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -170,6 +170,9 @@ footer {
   justify-content: center;
   align-items: center;
   margin-top: -7.5rem; }
+  @media (max-width: 43.75em) {
+    #hero {
+      background-image: linear-gradient(to top, #141414, rgba(20, 20, 20, 0.2)), url(../img/hero-mobile.jpg); } }
 
 .cta-button {
   display: flex;
@@ -196,7 +199,7 @@ footer {
 
 #merch {
   display: grid;
-  grid-template-columns: [full-start] minmax(6rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(6rem, 1fr) [full-end];
+  grid-template-columns: [full-start] minmax(1.4rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(1.4rem, 1fr) [full-end];
   grid-column: full-start / full-end;
   background-color: #141414;
   padding: 4rem 0rem; }
@@ -238,7 +241,7 @@ footer {
 
 #shows {
   display: grid;
-  grid-template-columns: [full-start] minmax(6rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(6rem, 1fr) [full-end];
+  grid-template-columns: [full-start] minmax(1.4rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(1.4rem, 1fr) [full-end];
   grid-column: full-start / full-end;
   background-color: #141414;
   padding: 4rem 0rem; }
@@ -252,7 +255,7 @@ footer {
   grid-template-rows: min-content; }
   .shows-block__photo {
     border-radius: 2rem 0rem 0rem 2rem;
-    background-image: url(../img/lets-party.png);
+    background-image: url(../img/party.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; }
@@ -343,7 +346,7 @@ footer {
 
 #story {
   display: grid;
-  grid-template-columns: [full-start] minmax(6rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(6rem, 1fr) [full-end];
+  grid-template-columns: [full-start] minmax(1.4rem, 1fr) [content-start] repeat(8, [col-start] minmax(min-content, 18rem) [col-end]) [content-end] minmax(1.4rem, 1fr) [full-end];
   grid-column: full-start / full-end;
   background-color: #141414;
   padding: 4rem 0rem; }
