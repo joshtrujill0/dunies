@@ -154,6 +154,7 @@ footer {
     width: 2.4rem;
     height: 2.4rem;
     margin: 0rem 1rem;
+    margin-bottom: 2rem;
     cursor: pointer; }
     .social-links svg:hover {
       fill: #ffed76;
