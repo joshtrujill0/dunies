@@ -1,4 +1,4 @@
-const shows = require("../shows.json");
+const shows = require("../public/js/shows.json");
 
 exports.home = (req, res) => {
   res.status(200).render("home", { shows });
