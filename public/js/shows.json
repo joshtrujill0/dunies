@@ -1,16 +1,10 @@
 [
   {
-    "location": "live at Pineapples (Eau Gallie)",
-    "time": "10/06/23 @ 8pm (18+)",
+    "location": "live at Drifthouse (Cocoa Beach)",
+    "time": "12/16/23 @ 4pm",
     "price": "free event",
     "ticket": "https://www.website.com",
     "selling": false
   },
-  {
-    "location": "live at Pineapples (Eau Gallie)",
-    "time": "10/06/23 @ 8pm (18+)",
-    "price": "free event",
-    "ticket": "https://www.website.com",
-    "selling": true
-  }
+  
 ]
