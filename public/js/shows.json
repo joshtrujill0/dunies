@@ -5,16 +5,14 @@
     "price": "$10 at the door",
     "ticket": "https://www.website.com",
     "selling": false
-  }
-
+  },
   {
     "location": "Melbourne, FL at Pineapples with Tank Top & Mangrove",
     "time": "Saturday Jan 13 8PM",
     "price": "$10",
     "ticket": "https://www.eventbrite.com/e/dunies-ft-tank-top-mangrove-at-pineapples-tickets-783881720327?utm_experiment=test_share_listing&aff=ebdsshios",
     "selling": true
-  }
-
+  },
   {
     "location": "Orlando, FL at Stardust Coffee with Frogs Show Mercy, Off Track, & Midhouse",
     "time": "Saturday Jan 27 7PM",
@@ -22,6 +20,4 @@
     "ticket": "https://www.ticketweb.com/event/frogs-show-mercy-dunies-off-stardust-video-coffee-tickets/13368113",
     "selling": true
   }
-
-  
 ]
