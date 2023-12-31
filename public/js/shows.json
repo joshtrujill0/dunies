@@ -1,5 +1,12 @@
 [
   {
+    "location": "Melbourne, FL at Space Swap 100TH EVENT",
+    "time": "Saturday Jan 6, 11AM-2AM",
+    "price": "$10 at the door",
+    "ticket": "https://www.website.com",
+    "selling": false
+  },
+  {
     "location": "Gainesville, FL at the Ox Store with Leg Biters, Porch Coffin, & Off Day",
     "time": "Friday Jan 12, 7PM",
     "price": "$10 at the door",
