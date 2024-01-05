@@ -21,10 +21,31 @@
     "selling": true
   },
   {
+    "location": "Tampa, FL at Hooch and Hive with TV Extra",
+    "time": "Friday Jan 19, 8PM",
+    "price": "$10 advanced, $13 at the door",
+    "ticket": "https://www.website.com",
+    "selling": false
+  },
+  {
+    "location": "Fort Myers, FL at Madhouse with Hogbean",
+    "time": "Saturday Jan 20, 8PM",
+    "price": "TBD",
+    "ticket": "https://www.website.com",
+    "selling": false
+  },
+  {
     "location": "Orlando, FL at Stardust Coffee with Frogs Show Mercy, Off Track, & Midhouse",
     "time": "Saturday Jan 27, 7PM",
     "price": "$12 advanced, $15 day of show",
     "ticket": "https://www.ticketweb.com/event/frogs-show-mercy-dunies-off-stardust-video-coffee-tickets/13368113",
     "selling": true
+  },
+  {
+    "location": "Cocoa Beach, FL at Johnathan's Pub with 0 Miles Per Hour & The Speed Spirits",
+    "time": "Saturday Feb 2, 7PM",
+    "price": "$10 at the door",
+    "ticket": "https://www.website.com",
+    "selling": false
   }
 ]
