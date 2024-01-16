@@ -1,19 +1,5 @@
 [
   {
-    "location": "Gainesville, FL at the Ox Store with Leg Biters, Porch Coffin, & Off Day",
-    "time": "Friday Jan 12, 7PM",
-    "price": "$10 at the door",
-    "ticket": "https://www.website.com",
-    "selling": false
-  },
-  {
-    "location": "Melbourne, FL at Pineapples with Tank Top & Mangrove",
-    "time": "Saturday Jan 13, 8PM",
-    "price": "$10",
-    "ticket": "https://www.eventbrite.com/e/dunies-ft-tank-top-mangrove-at-pineapples-tickets-783881720327?utm_experiment=test_share_listing&aff=ebdsshios",
-    "selling": true
-  },
-  {
     "location": "Tampa, FL at Hooch and Hive with TV Extra & Floating Boy",
     "time": "Friday Jan 19, 8PM",
     "price": "$10 advanced, $13 at the door",
