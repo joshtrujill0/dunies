@@ -1,13 +1,5 @@
 [
   {
-    "location": "Tampa, FL at Hooch and Hive with TV Extra & Floating Boy",
-    "time": "Friday Jan 19, 8PM",
-    "price": "$10 advanced, $13 at the door",
-    "ticket": "https://www.venuepilot.co/events/94638/orders/new#/",
-    "selling": true
-  },
-
-  {
     "location": "Orlando, FL at Stardust Coffee with Frogs Show Mercy, Off Track, & Midhouse",
     "time": "Saturday Jan 27, 7PM",
     "price": "$12 advanced, $15 day of show",
@@ -20,5 +12,12 @@
     "price": "$10 at the door",
     "ticket": "https://www.website.com",
     "selling": false
+  },
+  {
+    "location": "Melbourne, FL at Pineapples with SWIMM and Tank Top",
+    "time": "Friday Feb 23, 8PM",
+    "price": "$15 advanced, $18 day of show",
+    "ticket": "https://www.eventbrite.com/e/swimm-ft-dunies-tank-top-at-pineapples-tickets-794885222097?fbclid=PAAaaTaPdMtESJC8AnJlgrplK1sJD5_TSVNLVizMUJ2mAaEw63CTS04OhzvaA_aem_AUm4SZVc4SjtDYzN3XOMsMF3tykrzWYRZ_iDZWPVfoQLkx6ZCOGureA3gY6Hrs1jO4M",
+    "selling": true
   }
 ]
