@@ -1,17 +1,9 @@
 [
   {
-    "location": "Melbourne, FL || Pineapples || SWIMM, Dunies, & Tank Top",
-    "time": "Friday Feb 23, 8PM",
-    "price": "$15 advanced, $18 day of show",
-    "ticket": "https://www.eventbrite.com/e/swimm-ft-dunies-tank-top-at-pineapples-tickets-794885222097?fbclid=PAAaaTaPdMtESJC8AnJlgrplK1sJD5_TSVNLVizMUJ2mAaEw63CTS04OhzvaA_aem_AUm4SZVc4SjtDYzN3XOMsMF3tykrzWYRZ_iDZWPVfoQLkx6ZCOGureA3gY6Hrs1jO4M",
-    "selling": true
-  },
-
-  {
-    "location": "Tampa, FL || New World Brewery || Hockey Dad North America Tour",
-    "time": "18+ || Tuesday Feb 27, 7PM",
-    "price": "$20 advanced || $25 day of show",
-    "ticket": "https://www.etix.com/ticket/p/63633641/hockey-dad-wminds-eye-tampa-new-world-brewery-fyf",
-    "selling": true
+    "location": "MORE SHOWS COMING SOON",
+    "time": "",
+    "price": "",
+    "ticket": "",
+    "selling": false
   }
 ]
