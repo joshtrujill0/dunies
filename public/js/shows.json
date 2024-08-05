@@ -1,9 +1,16 @@
 [
   {
-    "location": "PINEAPPLES || MELBOURNE, FL || WITH WALTER MITTY AND HIS MAKESHIFT ORCHESTRA & SUZIE TRUE",
-    "time": "10/24/24 @ 8pm (18+) ",
-    "price": "PRICE TBA",
+    "location": "THE ABRA || MELBOURNE, FL || WITH PORCH COFFIN, LEGBITERS, & HOMESICK",
+    "time": "09/07/2024 @ 7pm (18+) ",
+    "price": "$15 at the door",
     "ticket": "https://www.website.com",
     "selling": false
+  },
+  {
+    "location": "PINEAPPLES || MELBOURNE, FL || WITH WALTER MITTY AND HIS MAKESHIFT ORCHESTRA & SUZIE TRUE",
+    "time": "10/24/24 @ 7pm (18+) ",
+    "price": "$12 adv, $15 day of show",
+    "ticket": "https://www.eventbrite.com/e/walter-mitty-his-makeshift-orchestra-ft-dunies-and-suzie-true-tickets-949226842037?aff=efbevent&fbclid=IwZXh0bgNhZW0CMTAAAR185wZu7MrechyqJHuRYqhTR8pp74n7E0nBuAwlWHYhLoqGU_ODaS419yM_aem_B3PTSBLIyI32NETVSwqIJw",
+    "selling": true
   }
 ]
