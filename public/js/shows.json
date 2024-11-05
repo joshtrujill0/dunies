@@ -1,16 +1,16 @@
 [
   {
-    "location": "PINEAPPLES || MELBOURNE, FL || WITH WALTER MITTY AND HIS MAKESHIFT ORCHESTRA & SUZIE TRUE",
-    "time": "10/24/24 @ 7pm (18+) ",
-    "price": "$12 adv, $15 day of show",
-    "ticket": "https://www.eventbrite.com/e/walter-mitty-his-makeshift-orchestra-ft-dunies-and-suzie-true-tickets-949226842037?aff=efbevent&fbclid=IwZXh0bgNhZW0CMTAAAR185wZu7MrechyqJHuRYqhTR8pp74n7E0nBuAwlWHYhLoqGU_ODaS419yM_aem_B3PTSBLIyI32NETVSwqIJw",
-    "selling": true
-  },
-  {
     "location": "PINEAPPLES || MELBOURNE, FL || WITH JACUZZI BOYS & SNACKS",
     "time": "11/14/24 @ 7pm (18+) ",
     "price": "$15 adv, $20 day of show",
     "ticket": "https://www.eventbrite.com/e/jacuzzi-boys-ft-dunies-snacks-at-pineapples-tickets-1048961601387?aff=ebdssbdestsearch",
+    "selling": true
+  },
+  {
+    "location": "PINEAPPLES THANKSGIVING EVE PARTY || MELBOURNE, FL || WITH SWIMM & GARY LAZER EYES",
+    "time": "11/27/24 @ 7:30pm (18+) ",
+    "price": "$15 adv, $20 day of show",
+    "ticket": "https://www.eventbrite.com/e/thxgiving-eve-party-w-swimm-ft-gary-lazer-eyes-dunies-at-pineapples-tickets-1037130052907?aff=ebdsoporgprofile",
     "selling": true
   }
 ]
