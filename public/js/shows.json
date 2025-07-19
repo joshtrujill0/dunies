@@ -1,16 +1,23 @@
 [
   {
-    "location": "TUFFY'S MUSIC BOX || SANFORD, FL || WITH CANNIBAL KIDS AND BUKO BOYS",
-    "time": "6/8/25 @ 7:00pm",
-    "price": "$15 ADVANCED, $22 DAY OF SHOW",
-    "ticket": "https://www.ticketweb.com/event/cannibal-kids-x-buko-boys-tuffys-music-box-tickets/14383093?pl=tuffys&irgwc=1&clickid=Q1J0yQ2S8xyPWJWUS5TJ82YBUksTCbQZ3y-b1I0&camefrom=CFC_BUYAT_219208&impradid=219208&REFERRAL_ID=tmfeedbuyat219208&wt.mc_id=aff_BUYAT_219208&utm_source=219208-Bandsintown&impradname=Bandsintown&utm_medium=affiliate&ircid=4272",
-    "selling": true 
+    "location": "VOOSWAR || JAX BEACH, FL || WITH SEAGATE AND MAJESTIC MOTHER",
+    "time": "8/8/25 @ 7:00pm",
+    "price": "TBD",
+    "ticket": "",
+    "selling": false 
   },
   {
-    "location": "BEACHSIDE RETRO || SATELLITE BEACH, FL || WITH THE NANCYS AND WEATHERBOYS",
-    "time": "7/12/25 @ 6:00pm",
-    "price": "$10 ADVANCED, $12 DAY OF SHOW",
-    "ticket": "https://www.beachsideretro.com/Dunies-The-Nancys-Weatherboys-p756723300?fbclid=PAQ0xDSwKv8-FleHRuA2FlbQIxMAABp-zCmDFYDrNHrNc29U4IBvjx5Qug7_8k6SsblU1Mdp3dSkHXqlDv-XDYiZ1j_aem_AGotOzPymiDaRDP-Z3xi-Q",
-    "selling": true 
+    "location": "JOHNATHAN'S PUB || COCOA BEACH, FL || WITH THE SPEED SPIRITS AND TBD",
+    "time": "8/15/25 @ 7:00pm",
+    "price": "TBD",
+    "ticket": "",
+    "selling": false 
+  },
+  {
+    "location": "PROPAGANDA || LAKE WORTH, FL || WITH RUDE TELEVISION AND CREATURE CAGE",
+    "time": "9/13/25 @ 7:00pm",
+    "price": "TBD",
+    "ticket": "",
+    "selling": false 
   }
 ]
