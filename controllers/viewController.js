@@ -7,3 +7,7 @@ exports.home = (req, res) => {
 exports.privacy = (req, res) => {
   res.status(200).render("privacy");
 };
+
+exports.toad = (req, res) => {
+  res.status(200).render("toad");
+};

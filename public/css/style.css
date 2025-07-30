@@ -198,6 +198,10 @@ footer {
   .cta-button:hover svg {
     fill: #ffed76;
     transition: all 0.4s; }
+  @media (max-width: 62.5em) {
+    .cta-button embed {
+      width: 400;
+      height: 600; } }
 
 #merch {
   display: grid;
